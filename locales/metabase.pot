@@ -453,7 +453,7 @@ msgid "Please contact an administrator to have them reset your password."
 msgstr ""
 
 #: frontend/src/metabase/auth/components/Login/Login.tsx:27
-msgid "Sign in to Metabase"
+msgid "Sign in to TSP Analytics"
 msgstr ""
 
 #: frontend/src/metabase/admin/settings/components/SettingsGoogleForm.jsx:50
@@ -8427,7 +8427,7 @@ msgid "Admin settings"
 msgstr ""
 
 #: frontend/src/metabase/nav/components/ProfileLink.jsx:80
-msgid "About Metabase"
+msgid "About TSP Analytics"
 msgstr ""
 
 #: frontend/src/metabase/nav/components/ProfileLink.jsx:86
@@ -8435,23 +8435,23 @@ msgid "Sign out"
 msgstr ""
 
 #: frontend/src/metabase/nav/components/ProfileLink.jsx:128
-msgid "Thanks for using Metabase!"
+msgid "Beverwijk Underground"
 msgstr ""
 
 #: frontend/src/metabase/nav/components/ProfileLink.jsx:131
-msgid "You're on version"
+msgid "You're on version 1.0"
 msgstr ""
 
 #: frontend/src/metabase/nav/components/ProfileLink.jsx:134
-msgid "Built on"
+msgid "Built on Windows"
 msgstr ""
 
 #: frontend/src/metabase/nav/components/ProfileLink.jsx:154
-msgid "is a Trademark of"
+msgid ","
 msgstr ""
 
 #: frontend/src/metabase/nav/components/ProfileLink.jsx:156
-msgid "and is built with care by a team from all across this pale blue dot."
+msgid "2022"
 msgstr ""
 
 #: frontend/src/metabase/nav/components/RecentsList.jsx:57
